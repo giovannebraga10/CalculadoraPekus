@@ -30,4 +30,9 @@ Antes de rodar o projeto, você precisará ter os seguintes itens instalados:
 Clone o repositório para o seu computador:
 
 ```bash
-git clone https://github.com/seu-usuario/CalculadoraPekus.git
+git clone https://github.com/giovannebraga10/CalculadoraPekus.git
+
+### Passo 2: Connection String
+
+Adaptar a Connection String as suas propriedades em Appsettings.json
+
