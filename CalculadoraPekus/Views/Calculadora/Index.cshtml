@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Calculadora";
+}
+
+<h2 class="text-center my-4">Calculadora</h2>
+
+<div class="container d-flex justify-content-center">
+    <div class="card p-4 shadow-sm" style="max-width: 400px; width: 100%;">
+        <form asp-action="Calculate" method="post" class="text-center">
+            <div class="form-group mb-3">
+                <label for="valueA">Valor A:</label>
+                <input type="number" id="valueA" name="valueA" class="form-control" step="any" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="valueB">Valor B:</label>
+                <input type="number" id="valueB" name="valueB" class="form-control" step="any" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label>Operação:</label>
+                <div class="d-flex flex-wrap justify-content-between">
+                    <button type="submit" name="operation" value="+" class="btn btn-primary mx-1 mb-2 w-100">Soma</button>
+                    <button type="submit" name="operation" value="-" class="btn btn-primary mx-1 mb-2 w-100">Subtração</button>
+                    <button type="submit" name="operation" value="*" class="btn btn-primary mx-1 mb-2 w-100">Multiplicação</button>
+                    <button type="submit" name="operation" value="/" class="btn btn-primary mx-1 mb-2 w-100">Divisão</button>
+                </div>
+            </div>
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success mt-3" role="alert">
+                    @TempData["SuccessMessage"]
+                </div>
+            }
+        </form>
+
+        <div class="text-center mt-3">
+            <a asp-action="History" class="btn btn-link">Ver Histórico</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    h2 {
+        font-family: Arial, sans-serif;
+        color: #333;
+    }
+
+    .card {
+        border: none;
+        border-radius: 10px;
+    }
+
+    .btn-primary {
+        border-radius: 8px;
+        white-space: nowrap;
+        padding: 10px 20px;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .alert-success {
+        font-size: 14px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .w-100 {
+        width: 100%;
+    }
+</style>

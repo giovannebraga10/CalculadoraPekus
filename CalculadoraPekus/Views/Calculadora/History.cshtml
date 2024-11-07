@@ -1,0 +1,73 @@
+﻿@model IEnumerable<CalculadoraPekus.Models.CalculadoraViewModel>
+
+@{
+    ViewData["Title"] = "Histórico de Cálculos";
+}
+
+<h2 class="text-center my-4">Histórico de Cálculos</h2>
+
+<div class="container d-flex justify-content-center">
+    <div class="card shadow-sm p-4" style="max-width: 800px; width: 100%;">
+        <table class="table table-striped table-bordered text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th style="width: 5%;">ID</th>
+                    <th style="width: 15%;">Valor A</th>
+                    <th style="width: 15%;">Valor B</th>
+                    <th style="width: 20%;">Operação</th>
+                    <th style="width: 15%;">Resultado</th>
+                    <th style="width: 30%;">Data/Hora</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var calc in Model)
+                {
+                    <tr>
+                        <td>@calc.Id</td>
+                        <td>@calc.ValueA</td>
+                        <td>@calc.ValueB</td>
+                        <td>@calc.Operation</td>
+                        <td>@(calc.Result % 1 == 0 ? calc.Result?.ToString("0") : calc.Result?.ToString("F3"))</td>
+                        <td>@calc.DateTime.ToString("dd/MM/yyyy HH:mm")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="text-center mt-3">
+            <a asp-action="Index" class="btn btn-primary" style="white-space: nowrap;">Nova Operação</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    h2 {
+        font-family: Arial, sans-serif;
+        color: #333;
+    }
+
+    .card {
+        border: none;
+        border-radius: 10px;
+    }
+
+    .table {
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+        .table th, .table td {
+            vertical-align: middle;
+            white-space: nowrap;
+        }
+
+    .btn-primary {
+        border-radius: 8px;
+        white-space: nowrap;
+        padding: 10px 20px;
+    }
+</style>

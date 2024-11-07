@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\views\\calculadora\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\views\\calculadora\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\data\\schemacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\data\\schemacreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|c:\\users\\giovanne\\source\\repos\\calculadorapekus\\calculadorapekus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB07F123-B247-4FDB-81DC-FE2ED98E9745}|CalculadoraPekus\\CalculadoraPekus.csproj|solutionrelative:calculadorapekus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CalculadoraPekus\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:05:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Views\\Calculadora\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\Views\\Calculadora\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Views\\Calculadora\\Index.cshtml",
+              "RelativeToolTip": "CalculadoraPekus\\Views\\Calculadora\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:01:27.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Views\\Calculadora\\History.cshtml",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\Views\\Calculadora\\History.cshtml",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Views\\Calculadora\\History.cshtml",
+              "RelativeToolTip": "CalculadoraPekus\\Views\\Calculadora\\History.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T05:01:43.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\appsettings.json",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\appsettings.json",
+              "RelativeToolTip": "CalculadoraPekus\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T04:47:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraController.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Controllers\\CalculadoraController.cs",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\Controllers\\CalculadoraController.cs",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Controllers\\CalculadoraController.cs",
+              "RelativeToolTip": "CalculadoraPekus\\Controllers\\CalculadoraController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:47:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\Program.cs",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Program.cs",
+              "RelativeToolTip": "CalculadoraPekus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:42:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchemaCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Data\\SchemaCreator.cs",
+              "RelativeDocumentMoniker": "CalculadoraPekus\\Data\\SchemaCreator.cs",
+              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\CalculadoraPekus\\CalculadoraPekus\\Data\\SchemaCreator.cs",
+              "RelativeToolTip": "CalculadoraPekus\\Data\\SchemaCreator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:41:08.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
